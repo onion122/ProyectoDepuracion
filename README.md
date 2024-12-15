@@ -22,7 +22,7 @@ de simbolismos similares a emojis.
 Finalmente probamos nuestro tamagotchi en un método main con nuestra mascota Tom, usando los métodos  
 que hemos definido.
 #### Código Completo Tamagotchi
-![Código Completo FizzBuzz.1](Capturas\ Tamagotchi/Código_Tamagotchi1.png)
+![Código Completo FizzBuzz.1]("Capturas Tamagotchi"/Código_Tamagotchi1.png)
 ![Código Completo FizzBuzz.2](Capturas\ Tamagotchi/Código_Tamagotchi2.png)
 ![Código Completo FizzBuzz.3](Capturas\ Tamagotchi/Código_Tamagotchi3.png)
 ## Depuración de las Katas
