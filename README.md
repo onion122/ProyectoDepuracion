@@ -22,9 +22,9 @@ de simbolismos similares a emojis.
 Finalmente probamos nuestro tamagotchi en un método main con nuestra mascota Tom, usando los métodos  
 que hemos definido.
 #### Código Completo Tamagotchi
-![Código Completo FizzBuzz.1]("Capturas Tamagotchi"/Código_Tamagotchi1.png)
-![Código Completo FizzBuzz.2](Capturas\ Tamagotchi/Código_Tamagotchi2.png)
-![Código Completo FizzBuzz.3](Capturas\ Tamagotchi/Código_Tamagotchi3.png)
+![Código Completo FizzBuzz.1](CapturasTamagotchi/Código_Tamagotchi1.png)
+![Código Completo FizzBuzz.2](CapturasTamagotchi/Código_Tamagotchi2.png)
+![Código Completo FizzBuzz.3](CapturasTamagotchi/Código_Tamagotchi3.png)
 ## Depuración de las Katas
 Veremos la depuración de las katas en las siguientes capturas
 ### Depuración FizzBuzz
@@ -39,12 +39,12 @@ por pantalla Buzz, pero después de eso no se muestra cómo se imprime (que sí 
 ![La depuración del 5.2](CapturasFizzBuzz/Depuración_FizzBuzz5.png)
 ### Depuración Tamagotchi
 Depuración de imprimir pantalla y el método que imprime:
-![La depuración desde dentro de imprimir pantalla]('Capturas Tamagotchi'/Depuración_Tamagotchi6.png)
+![La depuración desde dentro de imprimir pantalla](CapturasTamagotchi/Depuración_Tamagotchi6.png)
 El método jugar depurado, a la derecha se ven el valor de las variables y su cambio a lo largo de la  
 realización del código, al final se ven los valores que se quedarán y por último el paso a la siguiente
 línea de imprimir:
-![Código jugar.1](Capturas\ Tamagotchi/Depuración_Tamagotchi1.png)
-![Código jugar.2](Capturas\ Tamagotchi/Depuración_Tamagotchi2.png)
-![Código jugar.3](Capturas\ Tamagotchi/Depuración_Tamagotchi3.png)
-![Código jugar.4](Capturas\ Tamagotchi/Depuración_Tamagotchi4.png)
-![Código jugar.5](Capturas\ Tamagotchi/Depuración_Tamagotchi5.png)
+![Código jugar.1](CapturasTamagotchi/Depuración_Tamagotchi1.png)
+![Código jugar.2](CapturasTamagotchi/Depuración_Tamagotchi2.png)
+![Código jugar.3](CapturasTamagotchi/Depuración_Tamagotchi3.png)
+![Código jugar.4](CapturasTamagotchi/Depuración_Tamagotchi4.png)
+![Código jugar.5](CapturasTamagotchi/Depuración_Tamagotchi5.png)
