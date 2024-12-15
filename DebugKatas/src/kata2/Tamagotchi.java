@@ -95,20 +95,20 @@ public class Tamagotchi {
  * los resultados de los métodos que hemos hecho.
  * Al no tener límites se pueden imprimir todos los que se quieran y no 
  * funciona tan bien como uno original pero nos sirve para ver el funcionamiento.*/
-		Tamagotchi manolo = new Tamagotchi();
+		Tamagotchi tom = new Tamagotchi();
 		
-		System.out.println(manolo.jugar());
-		System.out.println(manolo.jugar());
-		System.out.println(manolo.jugar());
-		System.out.println(manolo.dormir());
-		System.out.println(manolo.dormir());
-		System.out.println(manolo.dormir());
-		System.out.println(manolo.comer());
-		System.out.println(manolo.jugar());
-		System.out.println(manolo.jugar());
-		System.out.println(manolo.jugar());
-		System.out.println(manolo.jugar());
-		System.out.println(manolo.dormir());
+		System.out.println(tom.jugar());
+		System.out.println(tom.jugar());
+		System.out.println(tom.jugar());
+		System.out.println(tom.dormir());
+		System.out.println(tom.dormir());
+		System.out.println(tom.dormir());
+		System.out.println(tom.comer());
+		System.out.println(tom.jugar());
+		System.out.println(tom.jugar());
+		System.out.println(tom.jugar());
+		System.out.println(tom.jugar());
+		System.out.println(tom.dormir());
 
 
 	}
